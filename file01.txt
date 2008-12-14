@@ -1,4 +1,4 @@
-First I create a file with some stuff in it.
+FIRST I create a file with some stuff in it, then I can keep working..
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
